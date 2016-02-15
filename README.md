@@ -1,2 +1,0 @@
-# VrGlobant
-Proyect asset globant
