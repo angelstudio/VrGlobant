@@ -1,0 +1,6 @@
+Detalles Tecnincos
+
+_Desarrollado Con Unity3D
+_Requiere Windos, Oculust Rift DK2 y Joystic Xbox(360 o ONE)
+
+Desarrollado por Matias Diaz(matias.diaz@globant.com)
